@@ -1,0 +1,19 @@
+Country,Category,DateTime,Value,Frequency,HistoricalDataSymbol,LastUpdate
+United States,Terrorism Index,2002-12-31T00:00:00,7.39,Yearly,UnitedStTerInd,2015-11-24T19:02:00
+United States,Terrorism Index,2003-12-31T00:00:00,6.79,Yearly,UnitedStTerInd,2015-11-24T19:02:00
+United States,Terrorism Index,2004-12-31T00:00:00,6.16,Yearly,UnitedStTerInd,2015-11-24T19:02:00
+United States,Terrorism Index,2005-12-31T00:00:00,5.63,Yearly,UnitedStTerInd,2015-11-24T19:02:00
+United States,Terrorism Index,2006-12-31T00:00:00,3.76,Yearly,UnitedStTerInd,2015-11-24T19:02:00
+United States,Terrorism Index,2007-12-31T00:00:00,3.7,Yearly,UnitedStTerInd,2015-11-24T19:02:00
+United States,Terrorism Index,2008-12-31T00:00:00,3.9,Yearly,UnitedStTerInd,2015-11-24T19:02:00
+United States,Terrorism Index,2009-12-31T00:00:00,4.36,Yearly,UnitedStTerInd,2015-11-24T19:02:00
+United States,Terrorism Index,2010-12-31T00:00:00,4.33,Yearly,UnitedStTerInd,2015-11-24T19:02:00
+United States,Terrorism Index,2011-12-31T00:00:00,3.85,Yearly,UnitedStTerInd,2015-11-24T19:02:00
+United States,Terrorism Index,2012-12-31T00:00:00,4,Yearly,UnitedStTerInd,2015-11-24T19:02:00
+United States,Terrorism Index,2013-12-31T00:00:00,4.67,Yearly,UnitedStTerInd,2015-11-24T19:02:00
+United States,Terrorism Index,2014-12-31T00:00:00,4.61,Yearly,UnitedStTerInd,2015-11-24T19:02:00
+United States,Terrorism Index,2015-12-31T00:00:00,4.88,Yearly,UnitedStTerInd,2016-11-17T17:12:00
+United States,Terrorism Index,2016-12-31T00:00:00,5.43,Yearly,UnitedStTerInd,2017-11-22T16:26:00
+United States,Terrorism Index,2017-12-31T00:00:00,6.07,Yearly,UnitedStTerInd,2019-02-11T17:48:00
+United States,Terrorism Index,2018-12-31T00:00:00,5.69,Yearly,UnitedStTerInd,2019-11-20T17:43:00
+United States,Terrorism Index,2019-12-31T00:00:00,5.26,Yearly,UnitedStTerInd,2020-12-28T10:46:00

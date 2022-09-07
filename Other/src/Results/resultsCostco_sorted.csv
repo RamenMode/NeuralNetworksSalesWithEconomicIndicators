@@ -1,0 +1,10 @@
+,Train Years,Pred Year,Indicator,Train StDev,Test RMSE,Explained Variance Ratio
+5,[2002 ... 2019],2020.0,historical_country_United_States_indicator_Leading_Economic_Index copy.csv,2.062,3.6,-0.746
+8,[2002 ... 2019],2020.0,historical_country_United_States_indicator_Labor_Force_Participation_Rate copy.csv,2.062,3.484,-0.69
+3,[2002 ... 2017],2018.0,historical_country_United_States_indicator_Leading_Economic_Index copy.csv,1.555,2.406,-0.547
+2,[2002 ... 2019],2020.0,historical_country_United_States_indicator_GDP_Deflator copy.csv,2.062,3.128,-0.517
+7,[2002 ... 2018],2019.0,historical_country_United_States_indicator_Labor_Force_Participation_Rate copy.csv,1.811,2.666,-0.472
+0,[2002 ... 2017],2018.0,historical_country_United_States_indicator_GDP_Deflator copy.csv,1.555,2.211,-0.421
+1,[2002 ... 2018],2019.0,historical_country_United_States_indicator_GDP_Deflator copy.csv,1.811,2.089,-0.154
+4,[2002 ... 2018],2019.0,historical_country_United_States_indicator_Leading_Economic_Index copy.csv,1.811,1.826,-0.008
+6,[2002 ... 2017],2018.0,historical_country_United_States_indicator_Labor_Force_Participation_Rate copy.csv,1.555,1.552,0.002

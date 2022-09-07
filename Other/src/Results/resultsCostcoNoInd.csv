@@ -1,0 +1,4 @@
+,Train Years,Pred Year,Indicator,trainStDev,Test RMSE,Explained Variance Ratio
+0,[2002 ... 2017],2018.0,historical_country_United_States_indicator_Government_Bond_10Y.csv,1.555,3.822,-1.457
+1,[2002 ... 2018],2019.0,historical_country_United_States_indicator_Government_Bond_10Y.csv,1.811,4.236,-1.339
+2,[2002 ... 2019],2020.0,historical_country_United_States_indicator_Government_Bond_10Y.csv,2.062,3.728,-0.808
